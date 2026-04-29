@@ -1,6 +1,7 @@
-## It's great to meet you! 👋
+# It's great to meet you! 👋
 
-I'm Luke — here's a little bit about me:
+
+### I'm Luke — here's a little bit about me:
 
 🧠 Data engineer with a love for solving messy problems and optimizing workflows
 
@@ -13,3 +14,7 @@ I'm Luke — here's a little bit about me:
 🎯 Always experimenting, frequently documenting, perpetually iterating
 
 🏦 Currently working in fintech (surprisingly fun), and always leveling up
+
+## Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
